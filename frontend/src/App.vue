@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import DownloadBasic from './components/DownloadBasic.vue';
-import DownloadRedirect from './components/DownloadRedirect.vue';
-import DownloadNoContentLength from './components/DownloadNoContentLength.vue';
-import DownloadHttpError from './components/DownloadHttpError.vue';
-import DownloadNewTab from './components/DownloadNewTab.vue';
+import DownloadBasic from './components/DownloadBasic.vue'
+import DownloadRedirect from './components/DownloadRedirect.vue'
+import DownloadNoContentLength from './components/DownloadNoContentLength.vue'
+import DownloadHttpError from './components/DownloadHttpError.vue'
+import DownloadNewTab from './components/DownloadNewTab.vue'
 </script>
 
 <template>

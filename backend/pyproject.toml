@@ -1,7 +1,7 @@
 [project]
 name = "backend"
 version = "0.1.0"
-description = ""
+description = "Download Simulator backend"
 authors = [
     {name = "Alok Nag",email = "nag.alok@gmail.com"}
 ]
@@ -15,6 +15,7 @@ dependencies = [
 ]
 
 [tool.poetry]
+package-mode = false
 
 [tool.poetry.group.dev.dependencies]
 black = "^25.1.0"
